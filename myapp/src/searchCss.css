@@ -1,0 +1,37 @@
+.search-frame {
+    padding: 20px;
+    margin: auto;
+    max-width: 600px;
+  }
+  
+  .search-field {
+    width: 70%;
+    padding: 8px;
+    margin-right: 10px;
+  }
+  
+  .search-btn {
+    padding: 8px 15px;
+    cursor: pointer;
+  }
+  
+  .results-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .results-table th,
+  .results-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .results-table th {
+    background-color: #f0f0f0;
+  }
+  
+  .results-table tbody tr:hover {
+    background-color: #f9f9f9;
+  }

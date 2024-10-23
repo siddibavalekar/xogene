@@ -1,0 +1,45 @@
+.main-frame{
+    height: 100vh;
+    width: 100vh;
+    position: fixed;
+    padding: 10px;
+    top:0px;
+    left: 0px;
+}
+
+.navBar
+{
+    width: 100vw;
+    height: 50px;
+    background-color: lightgrey;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    padding: 10px;
+    display: flex;
+}
+
+.xogeneLogo
+{
+    height: 40px;
+    width: 150px;
+    padding: 10px;
+}
+
+.page-title
+{
+    margin-left: 500px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    padding: 10px;
+
+}
+
+.main-body
+{
+    height: 100vh;
+    width: 100vw;
+    left: 0px;
+    position: fixed;
+    margin-top: 60px;
+}
